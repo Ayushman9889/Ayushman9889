@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi 👋, I'm Ayushman
 
-<!--
-**Ayushman9889/Ayushman9889** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Developer  
+🚀 Building modern web & AI applications  
+📚 Solving DSA problems in C++  
+🎯 Currently learning Next.js & Backend Development
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+
+- C++
+- JavaScript
+- TypeScript
+- React
+- Next.js
+- Node.js
+- Express.js
+- MongoDB
+- Tailwind CSS
+- Git & GitHub
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 Thumblify
+AI-powered thumbnail generation platform
+
+### 🔹 NexLo
+Modern full stack web application
+
+### 🔹 Cook-With-Zavo
+AI-powered recipe website
+
+---
+
+## 📈 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Ayushman9889&show_icons=true&theme=tokyonight)
+
+![Streak](https://streak-stats.demolab.com/?user=Ayushman9889&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushman9889&layout=compact&theme=tokyonight)
